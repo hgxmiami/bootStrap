@@ -1,3 +1,13 @@
+nav {
+    display: block;
+}
+
+body {
+    background-image: url("../img/dp_schlong.jpg");
+    background-color: #cccccc;
+}
+
+
 .container-fluid {
     position: relative;
     margin: 2px;
