@@ -1,0 +1,10 @@
+.container-fluid {
+    position: relative;
+    margin: 2px;
+    padding: 5px;
+    height: 100px;
+    width: 200px;
+    border: solid;
+    border-width: 3px;
+}
+
